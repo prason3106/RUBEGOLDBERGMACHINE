@@ -1,0 +1,2 @@
+# RUBEGOLDBERGMACHINE
+A Rube Goldberg Machine is a complex device that performs simple tasks in indirect and convoluted ways. We were to create a virtual Rube Goldberg  Machine with ADTs like Dynamic Arrays, Queue, Stack, and Binary tree. Our program can support any number of entries. The data is read from a file and initially stored in a queue. It is then passed on to stacks and linked lists for  further operations to be executed The data structures we selected are:  1. Arrays  2. Queue  3. Stack  4. Binary tree 
